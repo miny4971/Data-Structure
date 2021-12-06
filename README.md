@@ -1,4 +1,4 @@
-# Data-Structure
+# Data-Structure-stack
 
 You will be given an input text file containing a number of encoded strings
 
